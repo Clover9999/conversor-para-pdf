@@ -1,6 +1,6 @@
 # Conversor de Arquivos para PDF
 
-![Conversor de Arquivos](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Conversor de Arquivos](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
 ## Descrição
 
