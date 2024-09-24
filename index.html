@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversor de Arquivos para PDF</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="converter-container">
+    <h2>Conversor de Arquivos para PDF</h2>
+    <form id="fileConverterForm">
+      <div class="file-input">
+        <label for="fileUpload">Faça o upload de um arquivo (.txt, .jpg, .png):</label>
+        <input type="file" id="fileUpload" accept=".txt, .jpg, .jpeg, .png">
+      </div>
+
+      <button type="submit" class="convert-btn">Converter para PDF</button>
+    </form>
+
+    <div id="outputContainer" class="output-container">
+      <h3>Download do PDF:</h3>
+      <a id="downloadLink" href="#" download="arquivo.pdf">Clique aqui para baixar o PDF</a>
+    </div>
+  </div>
+
+  <!-- Inclua a biblioteca jsPDF -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
 
