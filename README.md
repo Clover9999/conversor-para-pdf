@@ -2,6 +2,7 @@
 
 ![Conversor de Arquivos](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 
+
 ## Descrição
 
 Este é um conversor de arquivos simples e intuitivo que permite aos usuários converter diversos formatos de arquivo para PDF. Com uma interface amigável, você pode facilmente selecionar um arquivo, iniciar a conversão e baixar o PDF resultante. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
