@@ -34,5 +34,5 @@ Certifique-se de ter um navegador moderno que suporte HTML5 e JavaScript.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   https://github.com/seu-usuario/nome-do-repositorio.git
+   
